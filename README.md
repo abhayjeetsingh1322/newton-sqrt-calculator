@@ -25,8 +25,3 @@ This project demonstrates the use of Newton's method to calculate the square roo
 ## Technologies Used
 - Java
 - Eclipse IDE
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone [repository URL]
